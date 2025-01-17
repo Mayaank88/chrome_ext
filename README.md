@@ -1,3 +1,5 @@
+![GoogleChromePacmanGIF](https://github.com/user-attachments/assets/a1b05f57-b931-4cc8-998f-f3a55f724dbc)
+
 <h1>Chrome Extension App</h1>
 <h2>A sort of Leads Tracker App.</h2>
 <p>This is a Chrome Extension App that I've build using HTML, CSS and JavaScript. So what it basically does is let's suppose you operate a investment banking firm and you are looking for some clients( here we call them as leads ) who are some potential coustomer for your firm. Now this app comes into play. </p>
