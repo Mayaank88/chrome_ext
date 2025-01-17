@@ -1,19 +1,18 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+<h1>Chrome Extension App</h1>
+<h2>A sort of Leads Tracker App.</h2>
+<p>This is a Chrome Extension App that I've build using HTML, CSS and JavaScript. So what it basically does is let's suppose you operate a investment banking firm and you are looking for some clients( here we call them as leads ) who are some potential coustomer for your firm. Now this app comes into play. </p>
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+<p>Here are some basic functionalities of this website/app:- <br>
+1. It has three buttons: • SAVE INPUT  • SAVE TAB  • DELETE ALL <br> 
+2. The SAVE INPUT BTN is used when we have to save a lead in the local storage. <br>
+3. Let's suppose you are on someones LinkedIn profile and you want to directly save the link. Here you can use the SAVE TAB BTN. <br>
+4. While saving all these , now you want to delete all the leads . Here you can leverage the DELETE BTN ( but you have to double click on it to make it work ). <br></p>
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+Things I've learned while building this project :-
+1. DOM manipulation.
+2. assinging local storage.
+3. returning the value.
+4. double click funtioning in JS (with the help of stack overflow).
+5. how to use google as a helper while coding (especially stack overflow).
+6. how to deploy any website in a browser.
+7. JSON.
